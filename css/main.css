@@ -1,0 +1,31 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.go-top{
+	position: fixed;
+	bottom: 2em;
+	right: 2em;
+	text-decoration: none;
+	background-color: tomato;
+	padding: 1em;
+	font-size: 12px;
+	color: black;
+	font-weight: bold;
+	display: none;
+}
+
+.go-top:hover{
+	background-color: orange;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
